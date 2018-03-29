@@ -1,0 +1,477 @@
+
+Video 1 / EmTech Digital 2018 - Opening Remarks, Day 1
+by Gideon Lichfield, Editor in Chief, MIT Technology Review
+https://events.technologyreview.com/video/watch/gideon-lichfield-emtech-digital-2018-opening-remarks-day-1/
+
+Main ideas: 
+-> AI an human intelligence always be interlaced. 
+-> Spendings in cognitive objects and AI will be multiplied by 8 before 2021. 
+-> Social implications of AI become a crucial subject : bias, access to the data, diversity. 
+
+-----------------------------
+Video 2 / Demystifying Artificial Intelligence
+by Oren Etzioni, Allen Institute for Artificial Intelligence
+https://events.technologyreview.com/video/watch/oren-etzioni-demystifying-ai/
+
+Main ideas : 
+-> 99% Deep Learning is still human work : need to label the data or code the algorithm. 
+-> It's the choice of people who are working in AI to create an AI that is not Evil. 
+-> Allen Institute for AI has a mission : AI for common good 
+https://www.alleninstitute.org
+
+-----------------------------
+Video 3 / Ingredients of Intelligence
+by Brenden Lake, NYU
+https://events.technologyreview.com/video/watch/brenden-lake-ingredients-intelligence/
+
+Main ideas : 
+-> How to build machine that are learning like people? 
+-> Machine must extract more knowledge from less data. (1)
+-> Machine must be able to build rich, flexible models of the world. (2)
+-> Key cognitive ingredients are missing or underumlitilzed in current AI. 
+-> Two areas of research :(1) Bayesian Program learning (BPL), 
+(2)Compositional learning. 
+
+-----------------------------
+Video 4 /  Understanding the Limits of AI: When Algorithms Fail
+by Timnit Gebru, Microsoft Research
+https://events.technologyreview.com/video/watch/timnit-gebru-ai-limits-algorithms-fail/
+
+Main Ideas : 
+-> How to trust and use AI with gender(word embeddings), racial bias coming from datasets used to train the algorithms?  
+-> How to use AI for hiring or justice if we can't trust AI? 
+-> Data-set bias have to be taken into account while designing machine-learning algorithms.  
+-> Need of strandards and documentations. 
+-> Need datasheets for Datasets (recommanded usage). 
+
+
+-----------------------------
+Video 5/ Robots at Work: What Precision Grasping Will Mean for Industry
+by Ken Goldberg, UC Berkeley
+https://events.technologyreview.com/video/watch/ken-goldberg-robots-work-precision-grasping/
+
+Main Ideas : 
+-> Progress in AI means progress in automation. In 5 to 10 years the robots will perform like humans. Must overcome the problem of overfitting. 
+-> Robots are already used for supply chain, inventory. 
+-> New opportunity : a way to do the jobs better not to replace humans. 
+-> New use : for the senior age to keep the floor clean. 
+-> Supervision of robots learning could create jobs. 
+
+
+----------------------------- 
+** Vidéo 6/ Roaming Walmart: Robots in the Retail Industry
+by Martin Hitch, Bossa Nova Robotics 
+https://events.technologyreview.com/video/watch/martin-hitch-walmart-retail-service-robots/
+
+Main Ideas : 
+-> We are so far away that robots replace humans but robots can be used in retail stores. 
+-> Bossanova Robots are used by 50 WallMart stores. 
+-> Out-of-stock detection, Check the level of stocks on the shelf, prices for the right product. 
+-> Can do the job when the customers are in the store. 
+-> Use radars used by an autonomous car. 
+https://www.youtube.com/watch?v=KRJV1SPYpIE
+
+
+-----------------------------
+Video 7/ Self-driving Delivery Robots Take on the Last Mile
+by Rui Li, Robby Technologies
+https://events.technologyreview.com/video/watch/rui-li-self-driving-robots-last-mile/
+
+Main ideas : 
+-> Use of the self-driving robots for the last-mile delivery (lunch delivery)
+-> Robby2 : https://robby.io/
+-> Use advanced self-driving technology : computer vision, machine learning, sensor fusion. 
+
+
+-----------------------------
+Video 8/ China's AI Awakening
+by Dahua Lin, CUHK/SenseTime Joint Lab
+ttps://events.technologyreview.com/video/watch/dahua-lin-china-ai-awakening/
+
+Main ideas : 
+-> Development Plan of the Chinese government in 2017 : By 2030, China will be an AI innovation center for the world.
+-> China is planning to build a 13.8 billion yuan ($2.1 billion) technology park for the development of artificial intelligence. The campus will be constructed within five years and situated in the suburban Mentougou district in western Beijing. 
+-> Sense Time start-up :  https://www.sensetime.com/
+-> Use AI for smart city surveillance, mobile phone camera, mobile APP, deeplearning chips, financial services security, autonomous driving.
+-> Success build on 20 years of research. 
+
+
+-----------------------------
+Video 9/ AI for Content Curation
+by Wei-Ying Ma, Bytedance
+https://events.technologyreview.com/video/watch/wei-ying-ma-ai-content-curation/
+
+Main ideas : 
+-> Bytedance is using AI for content curation : https://www.bytedance.com/
+-> Generate content on mobile platforms.  
+-> Need of human to label the data, moderate the content. 
+-> Use user's experience to display the right content (recommendation algorithm)
+-> Connect AI-assisted content consommation and AI-assisted content creation
+-> Few activities: 
+	-> Body detection and tracking.  
+	-> AI Camera will allow the creation of new content with AR, special effects....and create new social experience. 
+	-> Sport commenting engine to comment sport in real time. 
+	-> Machine Writing: sport, financial, real estate news writing by robots. 
+
+
+-----------------------------
+** Video 10/ AI for a Better World
+by Shipeng Li, iFLYTEK
+https://events.technologyreview.com/video/watch/shipeng-li-ai-better-world/
+
+Main ideas : 
+-> Iflytek speech technology and cognitive intelligence company : http://www.iflytek.com/en/about/index.html
+-> Few activities : Speech recognition, speech translation 
+(mobile), medical and image diagnosis, AI online healthcare center, targeting teaching and customized studying plan, Auto-grading system. 
+-> Iflytek has created an AIUI platform for scientist and researchers. 
+-> is "BATI" Baidu, Alibaba, Tencent, Iflytek the Chinese GAFA?
+-> BATI propose 4 open AI platforms : Baidu leading autonomous car, Alibaba-smart city, Tencent-intelligent healthcare, Iflytech-intelligent UI & speech recognition.
+
+
+-----------------------------
+Video 11/ Technology Spotlight: Breaking Barriers with Machine Translation
+by Hua Wu, Baidu
+https://events.technologyreview.com/video/watch/hua-wu-baidu-nlp-machine-translation/
+
+Main ideas : 
+-> Translation keep improving thanks the use of Neural Machine Translation since 2014. 
+-> Better Algorithm, better model, better processing power (GPU). 
+-> Neural Machine Translation Framework : Input Text->Encoder->Decoder->Output text. 
+-> Neural MT suits offline translation on Mobile Devices. 
+-> Last year Baidu launched the world's first wifi translator.
+https://www.theverge.com/circuitbreaker/2017/9/25/16363250/baidu-translator-gadget-announced
+
+
+
+-----------------------------
+Video 12/ Future Focus: Quantum Computing in Next Generation AI Research
+by Dario Gil, IBM Research
+https://events.technologyreview.com/video/watch/dario-gil-quantum-computing/
+
+Main ideas : 
+-> What are the impact of Quantum AI Networks?  
+-> QBit : one and a zero at the same time 
+_>Unlike classical computers, which store information in bits that are either 1 or 0, quantum computers use qubits, which can exist in multiple states of 1 and 0 at the same time—a phenomenon known as “superposition.” 
+-> Qubits can also influence one another even when they’re not physically connected, via a process known as “entanglement.”
+->IBM’s team first ran the task on a quantum machine without entangling the qubits, which produced an error rate of 5 percent. The second time around it ran the same experiment with the qubits entangled, which produced an error rate of just 2.5 percent.
+-> Quantum Computing for Dummies : A Simple Explanation for Normal People: https://youtu.be/lypnkNm0B4A
+-> IBMQ : https://www.ibm.com/events/think/watch/replay/113757119/
+
+
+-----------------------------
+Video 13 / Adversarial Machine Learning
+by Ian Goodfellow, Google Brain
+https://events.technologyreview.com/video/watch/ian-goodfellow-gans/
+
+Main ideas : 
+-> Generative adversarial networks used to create realistic image. 
+-> Based on game theory: Descrimator tries to make the generative image fake, the Generator want to fool the descriminator into thinking image is real. At convergence the genetator will produce images that look like realistics. 
+-> Use GAN as a classifier by divided real things (descriminator) into class of small categories: real cat/ real dog/ fake. 
+-> Use GAN for simulation : simulating particle physics (CERN). 
+-> Use GAN for simulated training data (Apple eye's detector).
+-> Use GAN for driving car to create day and night photos (Nvidia). 
+-> Use GAN as component of optimization algorithm (new DNA sequences).
+Tte paper : https://arxiv.org/pdf/1712.06148.pdf 
+-> Privacy of training data by limiting the number of data used to train the model. 
+-> Training on Adversarial example : Train= Adv, Test=Clean do better than Train= Clean, Test = Clean. 
+-> Hight challenge : secure machine learning. Algorithm are vulnerable.  
+
+
+-----------------------------
+** Video 14 / Creativity in the Age of Machines
+by Gavin Miller, Adobe 
+https://events.technologyreview.com/video/watch/gavin-miller-creativity-machines-adobe/
+
+Main ideas : 
+-> How adobe use computer vision and smart editing? 
+
+-> Content understanding : 
+	-> In photoshop create box (person / dog) and then search photography
+	-> Automation captioning : find key word for image content, easy indexation. 
+
+-> Smart Editing : object level detection 
+	-> Project Cloack : Selection a region that you want to delete in a video 
+	-> Project DeepFill: Use GAN to modify the image based on the user curve 
+	-> Project Scribber : Use deep Neural network to colorize an image.
+	-> Project Puppetron : input source vidéo and apply a style to the video. https://research.adobe.com/project/facestyle-example-based-synthesis-of-stylized-facial-animations/
+	-> Change a part of an image with algorithm : Projects Scene Stich, Sky replace. 
+
+-> Interactive agent for photo editing : Develop interface to easily use this functionality. (Siri for photoshop on Ipad)
+
+
+-----------------------------
+Video 15/ Moonshot thinking in Machine Learning: Applied AI Takes Flight
+by Astro Teller, Alphabet's X
+
+Main ideas : 
+-> X is Alphabet’s factory for building audacious ideas that through science and technology can be brought to reality.
+-> AI is still working in progress far from General AI. 
+-> Use of Machine Learning : 
+	-> But Machine Learning already allows to identify the meaning of a cyclist's gesture (autonomous car), identify where it's ok to land a package (autonomous drones). 
+	-> Moonshot Factory : 
+	-Project Loon : Balloon-Powered Internet for Everyone
+	-https://x.company/ 
+-> Future Area of business : 
+	-> Future Cybersecurity project.  
+	-> Agriculture and food production system (Better irrigation thanks Machine Learning). 
+
+
+-----------------------------
+** Video 16 / Accessible AI: Expanding the Reach of Intelligent Solutions
+by Rachel Thomas, Fast.ai University of San Francisco
+https://events.technologyreview.com/video/watch/rachel-thomas-accessible-ai/
+
+Main ideas : 
+->fast.ai : http://www.fast.ai/ to learn deep learning.
+->AI is not only for tech people.  
+->AI can be used for Social Good : http://www.deltanalytics.org/
+->You don't need Big Data: There a lot that you can do with small data (transfer learning)
+-> Need of experts to understand the error of Machine Learning. 
+-> Most practical real-world project require 1GPU.
+-> It will be better to train people that are already working in your organisation to deep learning because they know your business and your data. 
+
+
+
+-----------------------------
+Vidéo 17/ The AI Journey: From Research to the Real World
+by Jia Li, Google Cloud AI
+https://events.technologyreview.com/video/watch/jia-li-google-research-real-world/
+
+Main ideas : 
+-> AI is still requiring investment and expertise. The challenge is to lower the gap and make it available to everyone. 
+
+# Different steps to build AI solutions : 
+-> step 1 : Identifying problems (image recognition)
+-> step 2 : Collecting Data 
+	-> existing dataset : imagenet dataset, 
+	-> use simulation through virtual space, 
+	->transfer learning for small data
+	->large scale internet data as wikipedia. 
+-> step 3 : design Algorithms 
+-> step 4 : build solutions 
+
+# AI + Healthcare : 
+->AI will help to personalize the insights before and after the session with the doctors. 
+-> to make more sophisticated diagnostic and care strategy. 
+-> to easily detect anomalies in real time. 
+-> Research on Thoracic diseases identification and localization: 
+assist the work of the radiologist. 
+-> Goal : specialists spend less time on repetitive ans error-prone tasks. 
+the paper : https://deepai.org/publication/deep-reinforcement-learning-based-image-captioning-with-embedding-reward 
+
+# AutoML 
+-> Lack of ML expertise overcome with AutoML, an AI that customs learning models.(14000 AutoML Customers)
+https://www.lebigdata.fr/google-cloud-automl
+https://www.youtube.com/watch?v=GbLQE2C181U
+
+
+-----------------------------
+Video 18/ Self-Defending Networks: AI and the Future of Cyber Defense
+by Nicole Eagan, Darktrace
+https://events.technologyreview.com/video/watch/nicole-eagan-darktrace-security/
+
+Main ideas : 
+-> AI for cybersecurity : https://www.darktrace.com
+-> Network self-defending : autonomous and realtime response. 
+-> Use of unsupervised AI, no prior knowledge. In 5 or 7 days the network is able to develop auto-immun system of defense. 
+Dozen of competing mathematical approaches for each problem and use recursive bayesian estimation to evaluate each approach.
+-> Business : energy producers, internet of things devices, cryptocurrencies's networks. 
+
+
+-----------------------------
+Video 19/ The World of AI: Actually, Italian - Presented by the Italian Trade Agency
+https://events.technologyreview.com/video/watch/ita-emtech-digital-2018-italian-ai/
+
+Main idea: 
+->Italy is not only the country of pizza but also offers a good eco-system to run AI start-ups. 
+
+
+-----------------------------
+Video 20/ Cloud AI
+by Matt Wood, Amazon Web Services
+https://events.technologyreview.com/video/watch/matt-wood-amazon-cloud-ai/
+
+
+Main ideas : 
+-> Main client of AWS Cloud AI : 
+	-> Expedia (select image that convert the booking of the hotels)
+	-> NFL (telemetry of the ball-baseball) 
+	-> Capital One (transfer founds) 
+	-> Duolingo (teaching language)
+	-> Instacart (identify where products are un super market)
+	-> Stanford University (prevent diabetes blindness)
+	-> Hudl (Sport Analytics)
+
+-> AWS Solution :  	
+	-> Two Platforms to train machine learning in the cloud and deliver the training models on devices : SageMaker and IoT & Greengrass. 
+	-> Run Algorithms code with DeepLearning libraries  
+	Tensorflow, MXnet, Caffe 2, Keras PyTorch & ONNX 
+	-> Services : Language, Speech, Vision, Chatbots = pre-trained models that people can integrate through API. 
+
+-> Trends : 
+-> Create new data in the Cloud and migrating data to the cloud.  
+
+
+-----------------------------
+Video 22/ Automating Business Intelligence
+by Sean Gourley, Primer
+https://events.technologyreview.com/video/watch/sean-gourley-primer-automating-business-intelligence/
+
+Main ideas : 
+-> Primer creates stories from events (see the demo) : https://primer.ai/
+-Draw insights from events, information, context and generate synthesis. 
+-> Detect, select what is important and create a story : 
+-> Customization of the story : customize the outputs about industry, geography.
+-> Wallmart is client of Primer: detect the early signals from Wallmart Data. Emergence of trends about products. 
+-> How to deal with the bias of informations used to generate automatically story? 
+
+
+-----------------------------
+Video 23 / The Future of AI is Multistakeholder
+by Terah Lyons, Partnership on AI 
+https://events.technologyreview.com/video/watch/terah-lyons-future-of-ai-is-multistakeholder/
+
+Main ideas : 
+-> US Partnership on AI : https://www.partnershiponai.org/
+-> Members : Amazon, Apple, DeepMind, Facebook, Google, IBM , Microsoft
+-> Mission : 
+	-> Open Platform for inclusive AI debate (support researchers, stakeholders, law, etc..).
+	-> Involving the public in the future of AI (education, communication on AI issues).
+	-> AI Best practices (security, ethics, privacy issue, etc...)
+	-> AI for good (identify opportunities). 
+
+
+-----------------------------
+Video 24 / Addressing Bias in AI
+by Tess Posner, AI4ALL
+https://events.technologyreview.com/video/watch/tess-posner-ai4all-ai-bias/
+
+Main ideas : 
+-> AI4ALL : http://ai-4-all.org/
+-> Problem : Diversity crisis 
+13% Women in AI and ML CEOs 
+2,6% African American in Engineering faculty 
+3,6% Hispanic in Engineering faculty 
+-> Need to increase diversity in AI. 
+
+
+-----------------------------
+Video 25/ Roundtable: Expanding the Reach of AI’s Benefits
+by Terah Lyons, Partnership on AI, Tess Posner, AI4ALL, and Ken Goldberg, UC Berkeley
+https://events.technologyreview.com/video/watch/ai-bias-roundtable-posner-lyons-goldberg/
+
+Main ideas : 
+-> AI must take into account the diversity to create better algorithms, models and be accepted. 
+-> Blacks in AI : https://blackinai.github.io/
+
+
+-----------------------------
+** Video 26 : AI’s Economic Impact
+by Laura Tyson, Berkeley Haas School of Business
+https://events.technologyreview.com/video/watch/laura-tyson-haas-berkeley-ai-economic-impact/
+
+Main ideas : 
+-> AI will create or destroy jobs? : 
+	-> Learn for the past : lessons of automation will probably be the same for AI. Increase opportunities for the high level skills, stagnation of the middle/low skilled peoples.
+	-> Automation enhances income inequality between owner of capital and people who are working. 
+	-> Impact on the level of incomes : + high skilled -low skilled. 
+
+-> What is changing with AI is the magnitude of the change : 
+In USA and Germany : about 1/4 of the workforce will have to change occupation in a 15 years period. 
+
+-> Need to rethink skilling and training. But who is going to pay for this lifelong skilling? 
+	-> AT&T has started a massive internal training program (Nano-degrees with Udacity). 
+	-> Public and private partnerships to create training programs (20 Governors, Microsoft and LinkedIn) 
+
+-> AI will have an impact on the geography of employment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
