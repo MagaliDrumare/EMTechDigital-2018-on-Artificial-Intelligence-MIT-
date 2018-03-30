@@ -93,7 +93,7 @@ Main ideas :
 -> China is planning to build a 13.8 billion yuan ($2.1 billion) technology park for the development of artificial intelligence. The campus will be constructed within five years and situated in the suburban Mentougou district in western Beijing. 
 -> Sense Time start-up :  https://www.sensetime.com/
 -> Use AI for smart city surveillance, mobile phone camera, mobile APP, deeplearning chips, financial services security, autonomous driving.
--> Success build on 20 years of research. 
+-> Success built on 20 years of research. 
 
 
 -----------------------------
@@ -111,7 +111,7 @@ Main ideas :
 	-> Body detection and tracking.  
 	-> AI Camera will allow the creation of new content with AR, special effects....and create new social experience. 
 	-> Sport commenting engine to comment sport in real time. 
-	-> Machine Writing: sport, financial, real estate news writing by robots. 
+	-> Machine Writing: sport, financial, real estate, news written by robots. 
 
 
 -----------------------------
@@ -125,7 +125,8 @@ Main ideas :
 (mobile), medical and image diagnosis, AI online healthcare center, targeting teaching and customized studying plan, Auto-grading system. 
 -> Iflytek has created an AIUI platform for scientist and researchers. 
 -> is "BATI" Baidu, Alibaba, Tencent, Iflytek the Chinese GAFA?
--> BATI propose 4 open AI platforms : Baidu leading autonomous car, Alibaba-smart city, Tencent-intelligent healthcare, Iflytech-intelligent UI & speech recognition.
+-> BATI propose 4 open AI platforms : Baidu leading autonomous car, Alibaba-smart city, 
+Tencent-intelligent healthcare, Iflytech-intelligent UI & speech recognition.
 
 
 -----------------------------
@@ -151,7 +152,8 @@ https://events.technologyreview.com/video/watch/dario-gil-quantum-computing/
 Main ideas : 
 -> What are the impact of Quantum AI Networks?  
 -> QBit : one and a zero at the same time 
-_>Unlike classical computers, which store information in bits that are either 1 or 0, quantum computers use qubits, which can exist in multiple states of 1 and 0 at the same time—a phenomenon known as “superposition.” 
+->Unlike classical computers, which store information in bits that are either 1 or 0, quantum computers use qubits, 
+which can exist in multiple states of 1 and 0 at the same time—a phenomenon known as “superposition.” 
 -> Qubits can also influence one another even when they’re not physically connected, via a process known as “entanglement.”
 ->IBM’s team first ran the task on a quantum machine without entangling the qubits, which produced an error rate of 5 percent. The second time around it ran the same experiment with the qubits entangled, which produced an error rate of just 2.5 percent.
 -> Quantum Computing for Dummies : A Simple Explanation for Normal People: https://youtu.be/lypnkNm0B4A
@@ -165,13 +167,15 @@ https://events.technologyreview.com/video/watch/ian-goodfellow-gans/
 
 Main ideas : 
 -> Generative adversarial networks used to create realistic image. 
--> Based on game theory: Descrimator tries to make the generative image fake, the Generator want to fool the descriminator into thinking image is real. At convergence the genetator will produce images that look like realistics. 
+-> Based on game theory: Descrimator tries to make the generative image fake, 
+the Generator want to fool the descriminator into thinking image is real. 
+At convergence the genetator will produce images that look like realistics. 
 -> Use GAN as a classifier by divided real things (descriminator) into class of small categories: real cat/ real dog/ fake. 
 -> Use GAN for simulation : simulating particle physics (CERN). 
 -> Use GAN for simulated training data (Apple eye's detector).
 -> Use GAN for driving car to create day and night photos (Nvidia). 
 -> Use GAN as component of optimization algorithm (new DNA sequences).
-Tte paper : https://arxiv.org/pdf/1712.06148.pdf 
+The paper : https://arxiv.org/pdf/1712.06148.pdf 
 -> Privacy of training data by limiting the number of data used to train the model. 
 -> Training on Adversarial example : Train= Adv, Test=Clean do better than Train= Clean, Test = Clean. 
 -> Hight challenge : secure machine learning. Algorithm are vulnerable.  
@@ -207,7 +211,8 @@ Main ideas :
 -> X is Alphabet’s factory for building audacious ideas that through science and technology can be brought to reality.
 -> AI is still working in progress far from General AI. 
 -> Use of Machine Learning : 
-	-> But Machine Learning already allows to identify the meaning of a cyclist's gesture (autonomous car), identify where it's ok to land a package (autonomous drones). 
+	-> But Machine Learning already allows to identify the meaning of a cyclist's gesture (autonomous car), 
+	identify where it's ok to land a package (autonomous drones). 
 	-> Moonshot Factory : 
 	-Project Loon : Balloon-Powered Internet for Everyone
 	-https://x.company/ 
@@ -222,13 +227,14 @@ by Rachel Thomas, Fast.ai University of San Francisco
 https://events.technologyreview.com/video/watch/rachel-thomas-accessible-ai/
 
 Main ideas : 
-->fast.ai : http://www.fast.ai/ to learn deep learning.
-->AI is not only for tech people.  
-->AI can be used for Social Good : http://www.deltanalytics.org/
-->You don't need Big Data: There a lot that you can do with small data (transfer learning)
+-> fast.ai : http://www.fast.ai/ to learn deep learning.
+-> AI is not only for tech people.  
+-> AI can be used for Social Good : http://www.deltanalytics.org/
+-> You don't need Big Data: There a lot that you can do with small data (use transfer learning)
 -> Need of experts to understand the error of Machine Learning. 
--> Most practical real-world project require 1GPU.
--> It will be better to train people that are already working in your organisation to deep learning because they know your business and your data. 
+-> Most practical real-world project require only 1 GPU.
+-> It will be better to train people that are already working in your organisation to deep learning 
+because they know your business and your data. 
 
 
 
@@ -251,15 +257,15 @@ Main ideas :
 -> step 4 : build solutions 
 
 # AI + Healthcare : 
-->AI will help to personalize the insights before and after the session with the doctors. 
--> to make more sophisticated diagnostic and care strategy. 
--> to easily detect anomalies in real time. 
+-> AI will help to personalize the insights before and after the session with the doctors. 
+-> To make more sophisticated diagnostics and care strategies. 
+-> To easily detect anomalies in real time. 
 -> Research on Thoracic diseases identification and localization: 
 assist the work of the radiologist. 
 -> Goal : specialists spend less time on repetitive ans error-prone tasks. 
-the paper : https://deepai.org/publication/deep-reinforcement-learning-based-image-captioning-with-embedding-reward 
+The paper : https://deepai.org/publication/deep-reinforcement-learning-based-image-captioning-with-embedding-reward 
 
-# AutoML 
+# AutoML :
 -> Lack of ML expertise overcome with AutoML, an AI that customs learning models.(14000 AutoML Customers)
 https://www.lebigdata.fr/google-cloud-automl
 https://www.youtube.com/watch?v=GbLQE2C181U
@@ -272,10 +278,10 @@ https://events.technologyreview.com/video/watch/nicole-eagan-darktrace-security/
 
 Main ideas : 
 -> AI for cybersecurity : https://www.darktrace.com
--> Network self-defending : autonomous and realtime response. 
+-> Self-defending Network : autonomous and realtime responses to the attacks. 
 -> Use of unsupervised AI, no prior knowledge. In 5 or 7 days the network is able to develop auto-immun system of defense. 
 Dozen of competing mathematical approaches for each problem and use recursive bayesian estimation to evaluate each approach.
--> Business : energy producers, internet of things devices, cryptocurrencies's networks. 
+-> Area of business : energy producers, internet of things devices, cryptocurrencies's networks. 
 
 
 -----------------------------
@@ -294,22 +300,21 @@ https://events.technologyreview.com/video/watch/matt-wood-amazon-cloud-ai/
 
 Main ideas : 
 -> Main client of AWS Cloud AI : 
-	-> Expedia (select image that convert the booking of the hotels)
-	-> NFL (telemetry of the ball-baseball) 
-	-> Capital One (transfer founds) 
-	-> Duolingo (teaching language)
-	-> Instacart (identify where products are un super market)
+	-> Expedia (Select image that convert the booking of the hotels)
+	-> NFL (Telemetry of the ball-baseball) 
+	-> Capital One (Transfer founds) 
+	-> Duolingo (Teaching language)
+	-> Instacart (Identify where products are in the supermarket)
 	-> Stanford University (prevent diabetes blindness)
 	-> Hudl (Sport Analytics)
 
 -> AWS Solution :  	
-	-> Two Platforms to train machine learning in the cloud and deliver the training models on devices : SageMaker and IoT & Greengrass. 
-	-> Run Algorithms code with DeepLearning libraries  
-	Tensorflow, MXnet, Caffe 2, Keras PyTorch & ONNX 
+	-> Two Platforms to train machine learning in the cloud and deliver the training models on devices : 
+	SageMaker and IoT & Greengrass. 
+	-> Run Algorithms code with DeepLearning libraries : Tensorflow, MXnet, Caffe 2, Keras PyTorch & ONNX 
 	-> Services : Language, Speech, Vision, Chatbots = pre-trained models that people can integrate through API. 
 
--> Trends : 
--> Create new data in the Cloud and migrating data to the cloud.  
+-> Trends : Create new data in the Cloud and migrating data to the cloud.  
 
 
 -----------------------------
@@ -323,7 +328,7 @@ Main ideas :
 -> Detect, select what is important and create a story : 
 -> Customization of the story : customize the outputs about industry, geography.
 -> Wallmart is client of Primer: detect the early signals from Wallmart Data. Emergence of trends about products. 
--> How to deal with the bias of informations used to generate automatically story? 
+-> How to deal with the bias of informations used to automatically generate story? 
 
 
 -----------------------------
@@ -348,10 +353,10 @@ https://events.technologyreview.com/video/watch/tess-posner-ai4all-ai-bias/
 
 Main ideas : 
 -> AI4ALL : http://ai-4-all.org/
--> Problem : Diversity crisis 
-13% Women in AI and ML CEOs 
-2,6% African American in Engineering faculty 
-3,6% Hispanic in Engineering faculty 
+-> Problem : Diversity crisis : 
+	-13% Women in AI and ML CEOs 
+	-2,6% African American in Engineering faculty 
+	-3,6% Hispanic in Engineering faculty 
 -> Need to increase diversity in AI. 
 
 
@@ -372,7 +377,8 @@ https://events.technologyreview.com/video/watch/laura-tyson-haas-berkeley-ai-eco
 
 Main ideas : 
 -> AI will create or destroy jobs? : 
-	-> Learn for the past : lessons of automation will probably be the same for AI. Increase opportunities for the high level skills, stagnation of the middle/low skilled peoples.
+	-> Learn for the past : lessons of automation will probably be the same for AI. 
+	Increase opportunities for the high level skills, stagnation of the middle/low skilled people.
 	-> Automation enhances income inequality between owner of capital and people who are working. 
 	-> Impact on the level of incomes : + high skilled -low skilled. 
 
